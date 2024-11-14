@@ -71,3 +71,5 @@ const weatherTypeMapping = {
   "Solar Flare": "Psychic", // Space-related, fits "Psychic"
   "Aurora Borealis": "Fairy", // Ethereal and magical, fits "Fairy"
 };
+
+export default weatherTypeMapping;
