@@ -1,0 +1,1932 @@
+[
+  {
+    "id": "56c99fd8-3858-45a4-8657-a1d5d64c2f81",
+    "name": "bulbasaur",
+    "type": "grass/poison"
+  },
+  {
+    "id": "b96d453b-8eda-4487-b277-23578d70bd09",
+    "name": "ivysaur",
+    "type": "grass/poison"
+  },
+  {
+    "id": "0b289f17-602c-4402-b7d8-20e7b16256ff",
+    "name": "venusaur",
+    "type": "grass/poison"
+  },
+  {
+    "id": "3f8094da-37ea-4b40-a5ad-5af68cac6b0c",
+    "name": "charmander",
+    "type": "fire"
+  },
+  {
+    "id": "3ccdf3a7-0e7f-4cac-b115-3358ffe550de",
+    "name": "charmeleon",
+    "type": "fire"
+  },
+  {
+    "id": "6552f096-55f3-40be-853e-875f96330b58",
+    "name": "charizard",
+    "type": "fire/flying"
+  },
+  {
+    "id": "3e527a9b-78de-49ad-8a82-481590fe5e0c",
+    "name": "squirtle",
+    "type": "water"
+  },
+  {
+    "id": "9c01ca6f-1bc4-4e0f-94c2-6ff9b7093221",
+    "name": "wartortle",
+    "type": "water"
+  },
+  {
+    "id": "618f6383-f497-4614-9415-77de3c86fe66",
+    "name": "blastoise",
+    "type": "water"
+  },
+  {
+    "id": "0c2cc80c-4048-47f5-9a69-02bef2a10997",
+    "name": "caterpie",
+    "type": "bug"
+  },
+  {
+    "id": "186d72ec-eecd-4a6d-a15d-d9e7f64da9d9",
+    "name": "metapod",
+    "type": "bug"
+  },
+  {
+    "id": "5743a69c-90ba-4eef-8170-a5fc5010441a",
+    "name": "butterfree",
+    "type": "bug/flying"
+  },
+  {
+    "id": "3c6b14e8-7ee1-4ff8-9068-3da435067925",
+    "name": "weedle",
+    "type": "bug/poison"
+  },
+  {
+    "id": "c228c2e0-7c27-4fb3-b79e-36317b0e8530",
+    "name": "kakuna",
+    "type": "bug/poison"
+  },
+  {
+    "id": "9c177502-7ad8-4599-b4bb-b4fb6b63808f",
+    "name": "beedrill",
+    "type": "bug/poison"
+  },
+  {
+    "id": "0e9cb96c-00ab-45a2-bd01-89eccba13888",
+    "name": "pidgey",
+    "type": "normal/flying"
+  },
+  {
+    "id": "4695feb0-6dd0-4bc8-a6e0-10ea48f362b9",
+    "name": "pidgeotto",
+    "type": "normal/flying"
+  },
+  {
+    "id": "63863d3d-4aca-455a-90c8-713e538e9be9",
+    "name": "pidgeot",
+    "type": "normal/flying"
+  },
+  {
+    "id": "3e4434a5-6d23-464e-a4c5-fecff2189311",
+    "name": "rattata",
+    "type": "normal"
+  },
+  {
+    "id": "0d94cd56-fa4c-46ce-9eb6-5a7426b2fe7e",
+    "name": "raticate",
+    "type": "normal"
+  },
+  {
+    "id": "0da39a2c-377c-42f6-a618-0751ef4ed7b5",
+    "name": "spearow",
+    "type": "normal/flying"
+  },
+  {
+    "id": "7d3ac0ac-ae5d-4a5b-ba33-c5ba7afa7e50",
+    "name": "fearow",
+    "type": "normal/flying"
+  },
+  {
+    "id": "0bb09350-444a-46bb-90da-8267d8313675",
+    "name": "ekans",
+    "type": "poison"
+  },
+  {
+    "id": "a58cf45b-3dd2-4e86-ac78-7d5e3ae95877",
+    "name": "arbok",
+    "type": "poison"
+  },
+  {
+    "id": "c7da41a2-f249-4bb6-adc7-feadb27ea349",
+    "name": "pikachu",
+    "type": "electric"
+  },
+  {
+    "id": "3e30b9a8-c8e9-40e1-ac93-38d1324870c8",
+    "name": "raichu",
+    "type": "electric"
+  },
+  {
+    "id": "b5c8a1b7-8d89-4ee3-8f56-9ac2930bcbf7",
+    "name": "sandshrew",
+    "type": "ground"
+  },
+  {
+    "id": "ce7483c5-2ff8-40db-bea5-9fe808ccfe72",
+    "name": "sandslash",
+    "type": "ground"
+  },
+  {
+    "id": "392780b6-4b52-4cd7-a04a-609e5d7a1658",
+    "name": "nidoran-f",
+    "type": "poison"
+  },
+  {
+    "id": "bc05c9c3-8954-4eb9-8c2f-40f4e69f47d1",
+    "name": "nidorina",
+    "type": "poison"
+  },
+  {
+    "id": "d07229b2-fef8-45d5-a355-7c4df6aa5bdd",
+    "name": "nidoqueen",
+    "type": "poison/ground"
+  },
+  {
+    "id": "944ee0ff-4133-4822-aef9-fc1e87c481c1",
+    "name": "nidoran-m",
+    "type": "poison"
+  },
+  {
+    "id": "bdaa43dd-e38b-4f55-8998-7f4ca2acc2f5",
+    "name": "nidorino",
+    "type": "poison"
+  },
+  {
+    "id": "d382a75d-bf1e-4ac9-b6cb-dedeb77b7a9b",
+    "name": "nidoking",
+    "type": "poison/ground"
+  },
+  {
+    "id": "26facf30-860d-49f5-a9e2-127f3945ef83",
+    "name": "clefairy",
+    "type": "fairy"
+  },
+  {
+    "id": "141bbf43-3da2-4665-b35a-35643b9f7929",
+    "name": "clefable",
+    "type": "fairy"
+  },
+  {
+    "id": "c2988a7b-1768-4b0d-8d3f-63e455d05223",
+    "name": "vulpix",
+    "type": "fire"
+  },
+  {
+    "id": "9e2901f4-cacf-4097-bdc1-5ed40ef254dc",
+    "name": "ninetales",
+    "type": "fire"
+  },
+  {
+    "id": "349b7ae9-daf6-42a0-88ba-5230fcf5780f",
+    "name": "jigglypuff",
+    "type": "normal/fairy"
+  },
+  {
+    "id": "80b657f7-9d85-4987-992b-e6c52001e6b4",
+    "name": "wigglytuff",
+    "type": "normal/fairy"
+  },
+  {
+    "id": "2988b87d-9cf0-4ab3-b25f-391c496611e4",
+    "name": "zubat",
+    "type": "poison/flying"
+  },
+  {
+    "id": "f2bd031d-b6a5-4592-a534-f9734660d984",
+    "name": "golbat",
+    "type": "poison/flying"
+  },
+  {
+    "id": "be0e7881-16e3-4076-81b2-a2b42b2227bd",
+    "name": "oddish",
+    "type": "grass/poison"
+  },
+  {
+    "id": "9c60b982-dc39-453c-abce-81aa6c7972c3",
+    "name": "gloom",
+    "type": "grass/poison"
+  },
+  {
+    "id": "6b499dee-a05a-48a5-b98e-ab3d7d72ed37",
+    "name": "vileplume",
+    "type": "grass/poison"
+  },
+  {
+    "id": "2e8fefc3-6cd1-4e73-9ac2-feeb3b18b7a0",
+    "name": "paras",
+    "type": "bug/grass"
+  },
+  {
+    "id": "39e4f8f6-d639-47ff-b961-20716c35bd72",
+    "name": "parasect",
+    "type": "bug/grass"
+  },
+  {
+    "id": "bd19f245-bd60-4025-ab2a-1adfba3fcb0a",
+    "name": "venonat",
+    "type": "bug/poison"
+  },
+  {
+    "id": "75d620ea-aa67-48ef-bed3-124e08f180b7",
+    "name": "venomoth",
+    "type": "bug/poison"
+  },
+  {
+    "id": "e404ed22-3006-40f6-b6c1-235e5b43fb8c",
+    "name": "diglett",
+    "type": "ground"
+  },
+  {
+    "id": "491ba8cf-3d58-4e0b-af0a-07e806be9396",
+    "name": "dugtrio",
+    "type": "ground"
+  },
+  {
+    "id": "985bbd76-fb08-4863-93b2-9cf5099225af",
+    "name": "meowth",
+    "type": "normal"
+  },
+  {
+    "id": "b51cf325-9474-4adb-929c-309daf5885ce",
+    "name": "persian",
+    "type": "normal"
+  },
+  {
+    "id": "ab769deb-cb53-4116-a716-76dbf6898135",
+    "name": "psyduck",
+    "type": "water"
+  },
+  {
+    "id": "86ed4a93-cc9a-4293-b3d1-65960bfb3113",
+    "name": "golduck",
+    "type": "water"
+  },
+  {
+    "id": "3a157dc2-a6fb-43f0-bbcd-773ab6efe194",
+    "name": "mankey",
+    "type": "fighting"
+  },
+  {
+    "id": "219beffc-24ac-4629-95c6-b5252f6f269a",
+    "name": "primeape",
+    "type": "fighting"
+  },
+  {
+    "id": "d7ee48f4-baac-4bbf-9ad6-1883590a96af",
+    "name": "growlithe",
+    "type": "fire"
+  },
+  {
+    "id": "d56b845d-925a-4202-8dc0-4532ee43ee5e",
+    "name": "arcanine",
+    "type": "fire"
+  },
+  {
+    "id": "4e6eeba7-a175-428e-a281-8d7ef24ad7a7",
+    "name": "poliwag",
+    "type": "water"
+  },
+  {
+    "id": "159da923-623a-40a7-bb15-97fa515a7a08",
+    "name": "poliwhirl",
+    "type": "water"
+  },
+  {
+    "id": "76c52fa8-5e84-4a20-af61-823852258dca",
+    "name": "poliwrath",
+    "type": "water/fighting"
+  },
+  {
+    "id": "65791dc3-2d3a-4fd7-85d0-884aa2ad0b54",
+    "name": "abra",
+    "type": "psychic"
+  },
+  {
+    "id": "97ee9c0a-4b17-437c-b93e-95336d08462d",
+    "name": "kadabra",
+    "type": "psychic"
+  },
+  {
+    "id": "1e2ee18a-47be-4ed8-a5d5-03d52bf9c261",
+    "name": "alakazam",
+    "type": "psychic"
+  },
+  {
+    "id": "47c0a854-12d1-4471-85f6-0dfd39cc6d59",
+    "name": "machop",
+    "type": "fighting"
+  },
+  {
+    "id": "3dce444e-8b51-4a35-aa90-49b4199f2e52",
+    "name": "machoke",
+    "type": "fighting"
+  },
+  {
+    "id": "987c2011-c966-4d6b-ace4-a62c1024e693",
+    "name": "machamp",
+    "type": "fighting"
+  },
+  {
+    "id": "d288b209-4a9d-4753-8314-a10cad38b144",
+    "name": "bellsprout",
+    "type": "grass/poison"
+  },
+  {
+    "id": "9deffc2e-f5b1-4834-84d2-e89a64e5d450",
+    "name": "weepinbell",
+    "type": "grass/poison"
+  },
+  {
+    "id": "94c6e1dd-6299-44c5-bc94-08b28ce26dd2",
+    "name": "victreebel",
+    "type": "grass/poison"
+  },
+  {
+    "id": "da512983-a8b3-4332-a4b0-728371c1a9db",
+    "name": "tentacool",
+    "type": "water/poison"
+  },
+  {
+    "id": "a6b66989-135f-4cf0-90d6-42e35ef7f79e",
+    "name": "tentacruel",
+    "type": "water/poison"
+  },
+  {
+    "id": "f378bb6c-6a91-45e8-8e21-480f993d719a",
+    "name": "geodude",
+    "type": "rock/ground"
+  },
+  {
+    "id": "ffe14ade-7534-4a50-ae67-4e1a53e8e953",
+    "name": "graveler",
+    "type": "rock/ground"
+  },
+  {
+    "id": "392438f2-fcc9-4ed0-b104-e9ad381719f3",
+    "name": "golem",
+    "type": "rock/ground"
+  },
+  {
+    "id": "1bdace1d-e8a9-4223-b0fb-940eafddaadc",
+    "name": "ponyta",
+    "type": "fire"
+  },
+  {
+    "id": "4114d657-6a2a-416b-bb74-6d7a664edffa",
+    "name": "rapidash",
+    "type": "fire"
+  },
+  {
+    "id": "ed3f661c-cc98-4b5b-860e-86c06d5e77f0",
+    "name": "slowpoke",
+    "type": "water/psychic"
+  },
+  {
+    "id": "41bc507e-a1a8-423d-b569-d78bb7c1c29e",
+    "name": "slowbro",
+    "type": "water/psychic"
+  },
+  {
+    "id": "3b202bab-cc2b-4cf5-a524-4b18a0720905",
+    "name": "magnemite",
+    "type": "electric/steel"
+  },
+  {
+    "id": "5379b493-65c0-4dc3-a800-e045abd14b67",
+    "name": "magneton",
+    "type": "electric/steel"
+  },
+  {
+    "id": "382cd65e-2cc6-44a6-8719-26df40fb4044",
+    "name": "farfetchd",
+    "type": "normal/flying"
+  },
+  {
+    "id": "1d384d61-3f1b-4eaa-a5b6-edda434541f1",
+    "name": "doduo",
+    "type": "normal/flying"
+  },
+  {
+    "id": "990da9a0-774e-4802-9123-6de3d2240599",
+    "name": "dodrio",
+    "type": "normal/flying"
+  },
+  {
+    "id": "68e07e22-c7d5-4f97-958a-f4fe868a7a89",
+    "name": "seel",
+    "type": "water"
+  },
+  {
+    "id": "a75f82c6-2f91-4459-be52-6592ce030c42",
+    "name": "dewgong",
+    "type": "water/ice"
+  },
+  {
+    "id": "fdf26212-5e13-4659-a076-e690457b444c",
+    "name": "grimer",
+    "type": "poison"
+  },
+  {
+    "id": "4d52e775-0a63-4f4d-a82b-4d26cb1e598b",
+    "name": "muk",
+    "type": "poison"
+  },
+  {
+    "id": "cd2e902d-c689-4739-8423-2b5c3ed5c93d",
+    "name": "shellder",
+    "type": "water"
+  },
+  {
+    "id": "c0b28946-4101-4b9f-ab81-f240925a7f61",
+    "name": "cloyster",
+    "type": "water/ice"
+  },
+  {
+    "id": "1c2ebf59-b560-460e-a09b-0947787a505b",
+    "name": "gastly",
+    "type": "ghost/poison"
+  },
+  {
+    "id": "518dc2c5-b28b-4bc5-a265-03e56e748ea6",
+    "name": "haunter",
+    "type": "ghost/poison"
+  },
+  {
+    "id": "21a30b1d-59ed-420a-8d1a-a38e3491c38b",
+    "name": "gengar",
+    "type": "ghost/poison"
+  },
+  {
+    "id": "f87b46c0-745a-45ad-bb90-e5bd6855ce0f",
+    "name": "onix",
+    "type": "rock/ground"
+  },
+  {
+    "id": "27916ea8-894a-40b4-8908-00387a0d238e",
+    "name": "drowzee",
+    "type": "psychic"
+  },
+  {
+    "id": "8f7a3748-d31d-4190-9f2e-0030b964ab9f",
+    "name": "hypno",
+    "type": "psychic"
+  },
+  {
+    "id": "40b04c36-c148-4555-bb0e-a062a2b7611f",
+    "name": "krabby",
+    "type": "water"
+  },
+  {
+    "id": "3833cf0b-c347-414f-9663-deda76ee299e",
+    "name": "kingler",
+    "type": "water"
+  },
+  {
+    "id": "29e5f459-40a8-448d-9c77-4cc5ddae4745",
+    "name": "voltorb",
+    "type": "electric"
+  },
+  {
+    "id": "d2ffa85b-b765-4376-9bda-c8bf66b98e77",
+    "name": "electrode",
+    "type": "electric"
+  },
+  {
+    "id": "dc5dd421-2975-48f7-990e-ac28928f03d6",
+    "name": "exeggcute",
+    "type": "grass/psychic"
+  },
+  {
+    "id": "c4553c61-6ca0-4187-985f-84c790a8ef7a",
+    "name": "exeggutor",
+    "type": "grass/psychic"
+  },
+  {
+    "id": "192e56e9-08e8-42eb-9e41-7c9ee47bc3ce",
+    "name": "cubone",
+    "type": "ground"
+  },
+  {
+    "id": "b92f9a42-e1fa-483d-a07a-bf2214920e40",
+    "name": "marowak",
+    "type": "ground"
+  },
+  {
+    "id": "749f341d-ef3b-42d7-a96b-b206608b6591",
+    "name": "hitmonlee",
+    "type": "fighting"
+  },
+  {
+    "id": "ad4c2d61-ebd5-457a-b246-e999457b5708",
+    "name": "hitmonchan",
+    "type": "fighting"
+  },
+  {
+    "id": "0c5ae301-4d9a-4b6b-b531-efd2b4a9e52c",
+    "name": "lickitung",
+    "type": "normal"
+  },
+  {
+    "id": "28b9ac10-1a02-403b-a650-8aa3bdc872fb",
+    "name": "koffing",
+    "type": "poison"
+  },
+  {
+    "id": "65af24c5-49af-42c1-bf81-703ce035479d",
+    "name": "weezing",
+    "type": "poison"
+  },
+  {
+    "id": "4c2a7bea-8b14-4216-8e5c-50f94b731a92",
+    "name": "rhyhorn",
+    "type": "ground/rock"
+  },
+  {
+    "id": "aefc3123-6eae-4b9c-8660-1187a316c8ce",
+    "name": "rhydon",
+    "type": "ground/rock"
+  },
+  {
+    "id": "6360b492-25ca-4d0c-bef7-675ff9dbe8c5",
+    "name": "chansey",
+    "type": "normal"
+  },
+  {
+    "id": "a1f5e65e-c9ed-4d5f-badc-3d2a400557da",
+    "name": "tangela",
+    "type": "grass"
+  },
+  {
+    "id": "c75a0477-17a5-414b-a8c7-da6ab485ffd1",
+    "name": "kangaskhan",
+    "type": "normal"
+  },
+  {
+    "id": "1bbf974b-40c2-4c28-b73a-68cdf26a4178",
+    "name": "horsea",
+    "type": "water"
+  },
+  {
+    "id": "cd4d61cc-9bf5-43fc-952b-58e63fcc5d8f",
+    "name": "seadra",
+    "type": "water"
+  },
+  {
+    "id": "a191df90-7bd5-4109-9133-8bc387c0a601",
+    "name": "goldeen",
+    "type": "water"
+  },
+  {
+    "id": "77273545-0005-40f6-88e5-0fe6b941bf5e",
+    "name": "seaking",
+    "type": "water"
+  },
+  {
+    "id": "c2fd382d-4221-4945-b4d5-3b49c7d9c892",
+    "name": "staryu",
+    "type": "water"
+  },
+  {
+    "id": "829694ae-7d95-4504-be1f-4595ad135de9",
+    "name": "starmie",
+    "type": "water/psychic"
+  },
+  {
+    "id": "47a32adc-b4dc-452d-adbf-917ad730eaad",
+    "name": "mr-mime",
+    "type": "psychic/fairy"
+  },
+  {
+    "id": "454ea6fe-a65b-4c98-a1c7-13005b340758",
+    "name": "scyther",
+    "type": "bug/flying"
+  },
+  {
+    "id": "8b9faca1-ee10-4a45-b1c1-dc6085beb826",
+    "name": "jynx",
+    "type": "ice/psychic"
+  },
+  {
+    "id": "a5e37307-7f20-4a95-90d2-afef801c709b",
+    "name": "electabuzz",
+    "type": "electric"
+  },
+  {
+    "id": "d17a32c6-d246-4852-bee9-f8c9915e5314",
+    "name": "magmar",
+    "type": "fire"
+  },
+  {
+    "id": "987e5af6-f2f1-4210-b6ee-c8f0e1a43e6f",
+    "name": "pinsir",
+    "type": "bug"
+  },
+  {
+    "id": "647173f0-1dec-4b04-b853-e1da8e9268f2",
+    "name": "tauros",
+    "type": "normal"
+  },
+  {
+    "id": "9dcd3c18-8983-49ca-a207-61b69427ede3",
+    "name": "magikarp",
+    "type": "water"
+  },
+  {
+    "id": "8a80b9ae-7e36-4a75-8f26-d74f1e4ff3c7",
+    "name": "gyarados",
+    "type": "water/flying"
+  },
+  {
+    "id": "27b7680c-0e4f-4e0d-8733-52b64c93b349",
+    "name": "lapras",
+    "type": "water/ice"
+  },
+  {
+    "id": "6d591535-3cc5-4d7f-b446-0b1c4304de16",
+    "name": "ditto",
+    "type": "normal"
+  },
+  {
+    "id": "272ca3dc-0ca1-4a64-847d-a13dbf7ef527",
+    "name": "eevee",
+    "type": "normal"
+  },
+  {
+    "id": "0c00c0f5-8ce6-4e25-9c59-194d26a52f04",
+    "name": "vaporeon",
+    "type": "water"
+  },
+  {
+    "id": "d631836d-42ae-44c8-9d6b-29164a232595",
+    "name": "jolteon",
+    "type": "electric"
+  },
+  {
+    "id": "d9680e1e-cb30-4f0e-810d-27728f572a70",
+    "name": "flareon",
+    "type": "fire"
+  },
+  {
+    "id": "59982986-ef0b-43c2-b919-e9e6c245adbb",
+    "name": "porygon",
+    "type": "normal"
+  },
+  {
+    "id": "c519afe6-9232-46ce-9dcb-194f3e10cf9e",
+    "name": "omanyte",
+    "type": "rock/water"
+  },
+  {
+    "id": "9afc93cf-3435-43c2-b456-99b02a98924e",
+    "name": "omastar",
+    "type": "rock/water"
+  },
+  {
+    "id": "d1004adf-fb4b-4450-835c-5876dfb6bacf",
+    "name": "kabuto",
+    "type": "rock/water"
+  },
+  {
+    "id": "1518b9af-ba98-4960-b5c8-941182bb8987",
+    "name": "kabutops",
+    "type": "rock/water"
+  },
+  {
+    "id": "5dc9f6ce-047c-4cef-a727-ce9904f8a9c8",
+    "name": "aerodactyl",
+    "type": "rock/flying"
+  },
+  {
+    "id": "b74cad6b-89d8-4b37-83c2-4485e349aa3e",
+    "name": "snorlax",
+    "type": "normal"
+  },
+  {
+    "id": "b51f520d-3d4e-41d8-9749-0a31d1e40480",
+    "name": "articuno",
+    "type": "ice/flying"
+  },
+  {
+    "id": "2bf44613-af12-4469-81f0-3f5d08583e31",
+    "name": "zapdos",
+    "type": "electric/flying"
+  },
+  {
+    "id": "f4388a1e-4e33-4c21-a4c7-419f9bd1f43b",
+    "name": "moltres",
+    "type": "fire/flying"
+  },
+  {
+    "id": "4bd36fc4-d1c6-4ce0-87a7-4a8a096b0c94",
+    "name": "dratini",
+    "type": "dragon"
+  },
+  {
+    "id": "36730721-f31b-4d60-ab53-23cd8482aeb9",
+    "name": "dragonair",
+    "type": "dragon"
+  },
+  {
+    "id": "136abffc-6124-4076-9a0f-b86d8d71caf1",
+    "name": "dragonite",
+    "type": "dragon/flying"
+  },
+  {
+    "id": "309fd1a3-9abe-4f96-a56b-7a00e0e3c7b5",
+    "name": "mewtwo",
+    "type": "psychic"
+  },
+  {
+    "id": "1d67cbb2-3490-4d01-ab40-6da056d82828",
+    "name": "mew",
+    "type": "psychic"
+  },
+  {
+    "id": "72a382aa-c909-4066-976c-716331d2de34",
+    "name": "chikorita",
+    "type": "grass"
+  },
+  {
+    "id": "4c7d14a1-14f7-4e20-a5ff-fa77afcea0b4",
+    "name": "bayleef",
+    "type": "grass"
+  },
+  {
+    "id": "754b9308-b56c-4dcb-bb9a-1020abadfc99",
+    "name": "meganium",
+    "type": "grass"
+  },
+  {
+    "id": "f1d3ac01-6f07-4606-8da1-8aa4c3b37575",
+    "name": "cyndaquil",
+    "type": "fire"
+  },
+  {
+    "id": "84d31f5b-5479-4762-9dc6-2fb8bbff33e4",
+    "name": "quilava",
+    "type": "fire"
+  },
+  {
+    "id": "5b870082-c069-43cd-b038-d3f682a5885d",
+    "name": "typhlosion",
+    "type": "fire"
+  },
+  {
+    "id": "566f41f9-3943-4ea3-8e9d-fdbae396422e",
+    "name": "totodile",
+    "type": "water"
+  },
+  {
+    "id": "41988e3d-261b-4fce-86ce-e825b0d1a351",
+    "name": "croconaw",
+    "type": "water"
+  },
+  {
+    "id": "90b09551-3275-48f9-960f-08bce35974c1",
+    "name": "feraligatr",
+    "type": "water"
+  },
+  {
+    "id": "a87d8b1a-8677-488e-92dd-ec077f2d4775",
+    "name": "sentret",
+    "type": "normal"
+  },
+  {
+    "id": "19a38a0c-5aba-4ed3-a612-b0d508c3ece6",
+    "name": "furret",
+    "type": "normal"
+  },
+  {
+    "id": "7709b565-26c9-4b41-b495-4cf9bd0575bf",
+    "name": "hoothoot",
+    "type": "normal/flying"
+  },
+  {
+    "id": "90f1386a-3f54-4374-86f8-2ddaa1f5edc1",
+    "name": "noctowl",
+    "type": "normal/flying"
+  },
+  {
+    "id": "4aefb565-2fee-41aa-b2e5-ce7e80c564e0",
+    "name": "ledyba",
+    "type": "bug/flying"
+  },
+  {
+    "id": "60eadc8b-c864-4337-b429-aa85cb078926",
+    "name": "ledian",
+    "type": "bug/flying"
+  },
+  {
+    "id": "1872a905-03d8-4bb7-976d-73d0f93cd6b2",
+    "name": "spinarak",
+    "type": "bug/poison"
+  },
+  {
+    "id": "c1b62a3b-980f-4fda-8cee-fe5d4f493213",
+    "name": "ariados",
+    "type": "bug/poison"
+  },
+  {
+    "id": "04c352b1-e64f-448a-9a16-cdecd3891bce",
+    "name": "crobat",
+    "type": "poison/flying"
+  },
+  {
+    "id": "7cd93320-9499-4eb6-9ed7-f53570e90eaf",
+    "name": "chinchou",
+    "type": "water/electric"
+  },
+  {
+    "id": "efc8f0f8-356c-48e1-b82c-07df850d80a8",
+    "name": "lanturn",
+    "type": "water/electric"
+  },
+  {
+    "id": "2e4615c7-9d14-4cc6-8153-5dde686e048e",
+    "name": "pichu",
+    "type": "electric"
+  },
+  {
+    "id": "d858b26c-383c-47dc-8f8e-4cb4c24f5752",
+    "name": "cleffa",
+    "type": "fairy"
+  },
+  {
+    "id": "4f68ad78-cb74-4625-9c44-8f0eeb74a25a",
+    "name": "igglybuff",
+    "type": "normal/fairy"
+  },
+  {
+    "id": "8804a7d1-438a-471d-a086-2c6262787666",
+    "name": "togepi",
+    "type": "fairy"
+  },
+  {
+    "id": "fc781fd3-5188-4654-8771-b3c57f22d29e",
+    "name": "togetic",
+    "type": "fairy/flying"
+  },
+  {
+    "id": "66172982-a9af-407a-8cf7-ab2bad946606",
+    "name": "natu",
+    "type": "psychic/flying"
+  },
+  {
+    "id": "4bced42e-37ac-4f1e-96df-ff2f64c9fdf0",
+    "name": "xatu",
+    "type": "psychic/flying"
+  },
+  {
+    "id": "79efc728-76e1-4368-bb8b-6b095be36f91",
+    "name": "mareep",
+    "type": "electric"
+  },
+  {
+    "id": "9bc3e1ff-1b1c-43a4-a613-70a0a855e31c",
+    "name": "flaaffy",
+    "type": "electric"
+  },
+  {
+    "id": "e331c08f-9536-48aa-9921-28223c1ee3ae",
+    "name": "ampharos",
+    "type": "electric"
+  },
+  {
+    "id": "574895f8-059a-4b9f-a8e2-a90c04d2c9bf",
+    "name": "bellossom",
+    "type": "grass"
+  },
+  {
+    "id": "831c6c25-93b4-45a7-b369-3dd0759fba19",
+    "name": "marill",
+    "type": "water/fairy"
+  },
+  {
+    "id": "b5bbf7ae-52f2-4ea4-a130-6eaa3cd75b76",
+    "name": "azumarill",
+    "type": "water/fairy"
+  },
+  {
+    "id": "4e5baff3-6ad0-4949-9cf8-14457d528ac0",
+    "name": "sudowoodo",
+    "type": "rock"
+  },
+  {
+    "id": "0f232864-a25e-4663-9892-9026b03c9cd1",
+    "name": "politoed",
+    "type": "water"
+  },
+  {
+    "id": "c2447361-38f6-4a52-a0cf-1be87a18727e",
+    "name": "hoppip",
+    "type": "grass/flying"
+  },
+  {
+    "id": "e79dab34-df80-4a0f-b125-2b397426efc3",
+    "name": "skiploom",
+    "type": "grass/flying"
+  },
+  {
+    "id": "e7e37355-583f-4d04-bb92-8d920e484581",
+    "name": "jumpluff",
+    "type": "grass/flying"
+  },
+  {
+    "id": "705b37bb-4c7e-432c-9892-b673aab4a679",
+    "name": "aipom",
+    "type": "normal"
+  },
+  {
+    "id": "6951d6dc-defb-4ebf-91b9-dcf1f9b2fe5d",
+    "name": "sunkern",
+    "type": "grass"
+  },
+  {
+    "id": "2288b870-92e5-42e9-9024-b070faebc6d2",
+    "name": "sunflora",
+    "type": "grass"
+  },
+  {
+    "id": "2bcb7913-26fe-452f-9eb3-109e89842a19",
+    "name": "yanma",
+    "type": "bug/flying"
+  },
+  {
+    "id": "5274caed-5778-473a-97cb-131d2c973a86",
+    "name": "wooper",
+    "type": "water/ground"
+  },
+  {
+    "id": "5a4210cc-b4a4-4f33-bd24-102402a15d91",
+    "name": "quagsire",
+    "type": "water/ground"
+  },
+  {
+    "id": "113a354a-b58c-4fcf-aa4d-e86351199a6c",
+    "name": "espeon",
+    "type": "psychic"
+  },
+  {
+    "id": "4d37bb33-761f-4ff3-8125-4b71d7cbf3b7",
+    "name": "umbreon",
+    "type": "dark"
+  },
+  {
+    "id": "6898312e-5ea9-4bb6-9bb9-3f89a1458c7d",
+    "name": "murkrow",
+    "type": "dark/flying"
+  },
+  {
+    "id": "7d673825-4654-4c0e-893f-07b65e025949",
+    "name": "slowking",
+    "type": "water/psychic"
+  },
+  {
+    "id": "bfb0b91a-9274-4ba0-8630-f1a1ceb9a168",
+    "name": "misdreavus",
+    "type": "ghost"
+  },
+  {
+    "id": "a5f10056-9c30-4fec-8dd6-f7ae293aa80d",
+    "name": "unown",
+    "type": "psychic"
+  },
+  {
+    "id": "9c0ee876-002f-44e2-95ce-606bad3be338",
+    "name": "wobbuffet",
+    "type": "psychic"
+  },
+  {
+    "id": "1e3d2cb8-bd08-4d61-be93-1f35f3b2ef85",
+    "name": "girafarig",
+    "type": "normal/psychic"
+  },
+  {
+    "id": "c502ea12-ee4c-4ed9-a650-87282805abe8",
+    "name": "pineco",
+    "type": "bug"
+  },
+  {
+    "id": "89c0f081-948f-4619-bd17-4d9f303dfbf2",
+    "name": "forretress",
+    "type": "bug/steel"
+  },
+  {
+    "id": "044d2245-66c7-4d1d-9126-b21fcb3dc2f3",
+    "name": "dunsparce",
+    "type": "normal"
+  },
+  {
+    "id": "ff33233c-2867-4051-9dbd-83e3c15249d7",
+    "name": "gligar",
+    "type": "ground/flying"
+  },
+  {
+    "id": "3ea74f11-eb54-48d9-a0e3-b3c9f932c130",
+    "name": "steelix",
+    "type": "steel/ground"
+  },
+  {
+    "id": "c00ea15c-ddf3-41b0-8654-755429c2d1d4",
+    "name": "snubbull",
+    "type": "fairy"
+  },
+  {
+    "id": "8c2dbbdd-b752-4273-b70d-f73482ad269d",
+    "name": "granbull",
+    "type": "fairy"
+  },
+  {
+    "id": "6d8f510f-d833-4a68-ac67-4a11bc8ba77d",
+    "name": "qwilfish",
+    "type": "water/poison"
+  },
+  {
+    "id": "50537a68-77cf-463d-9347-1bc2e5947982",
+    "name": "scizor",
+    "type": "bug/steel"
+  },
+  {
+    "id": "a777f96e-eafa-477e-9258-0b978ddd6e09",
+    "name": "shuckle",
+    "type": "bug/rock"
+  },
+  {
+    "id": "6d230631-6522-4671-b547-66520c4ad587",
+    "name": "heracross",
+    "type": "bug/fighting"
+  },
+  {
+    "id": "d37c5ef3-62a0-4590-b191-6d79495d9fae",
+    "name": "sneasel",
+    "type": "dark/ice"
+  },
+  {
+    "id": "f92939f8-8031-4f73-ad79-fc1dffc163f8",
+    "name": "teddiursa",
+    "type": "normal"
+  },
+  {
+    "id": "66729732-9f75-4d99-aefe-a0d808cd8e51",
+    "name": "ursaring",
+    "type": "normal"
+  },
+  {
+    "id": "9dddb38c-a3d4-47b8-b2de-911def10f6b9",
+    "name": "slugma",
+    "type": "fire"
+  },
+  {
+    "id": "cfd8b8ea-7627-43c6-a8b4-8b34ea2baa60",
+    "name": "magcargo",
+    "type": "fire/rock"
+  },
+  {
+    "id": "1cec8670-3659-411e-8c37-22e8a7a049ab",
+    "name": "swinub",
+    "type": "ice/ground"
+  },
+  {
+    "id": "f9fe19b2-6ccd-4c77-8be0-6793670052ec",
+    "name": "piloswine",
+    "type": "ice/ground"
+  },
+  {
+    "id": "0d66be66-423e-4d60-86d6-f8dc975be027",
+    "name": "corsola",
+    "type": "water/rock"
+  },
+  {
+    "id": "d33cb0ce-5e68-4c53-aba9-4f76e19d5d4b",
+    "name": "remoraid",
+    "type": "water"
+  },
+  {
+    "id": "4a9e6707-39c8-4fd9-b517-0e750962ae86",
+    "name": "octillery",
+    "type": "water"
+  },
+  {
+    "id": "51c83a41-979c-4e41-b4d4-27afedd96282",
+    "name": "delibird",
+    "type": "ice/flying"
+  },
+  {
+    "id": "5c47111b-c5cc-43d1-9e17-a7e4d9e8e00c",
+    "name": "mantine",
+    "type": "water/flying"
+  },
+  {
+    "id": "bd8e9315-a7b1-4f56-95b8-9ec8e41bfd03",
+    "name": "skarmory",
+    "type": "steel/flying"
+  },
+  {
+    "id": "fadd7538-dc2c-40d9-8d8e-8fd8b2d6b460",
+    "name": "houndour",
+    "type": "dark/fire"
+  },
+  {
+    "id": "5ce51ced-7319-42ca-9ed9-c55156064370",
+    "name": "houndoom",
+    "type": "dark/fire"
+  },
+  {
+    "id": "592f07b7-7849-486e-bede-f0be6b875e55",
+    "name": "kingdra",
+    "type": "water/dragon"
+  },
+  {
+    "id": "641743f3-3141-4840-9e13-e3e13f740480",
+    "name": "phanpy",
+    "type": "ground"
+  },
+  {
+    "id": "994ee35c-0b79-4e4b-bcb7-6107d5d04cc4",
+    "name": "donphan",
+    "type": "ground"
+  },
+  {
+    "id": "c6672e25-28da-44a4-87c1-4f2d16f1de53",
+    "name": "porygon2",
+    "type": "normal"
+  },
+  {
+    "id": "c5035248-fe11-4056-922a-0881ad7b4f7b",
+    "name": "stantler",
+    "type": "normal"
+  },
+  {
+    "id": "b0434f6c-3253-4cfb-ab1e-ba70aaeee18c",
+    "name": "smeargle",
+    "type": "normal"
+  },
+  {
+    "id": "64c5a607-c5a2-4dd1-b9c1-df5146d5a33a",
+    "name": "tyrogue",
+    "type": "fighting"
+  },
+  {
+    "id": "6645876b-6c32-452d-bf4a-a2c7871410ec",
+    "name": "hitmontop",
+    "type": "fighting"
+  },
+  {
+    "id": "cfa9ab69-03b8-4845-833c-08c4e77d7ec2",
+    "name": "smoochum",
+    "type": "ice/psychic"
+  },
+  {
+    "id": "de9c4fc9-f617-4ce5-8a6d-d71083adeade",
+    "name": "elekid",
+    "type": "electric"
+  },
+  {
+    "id": "238bc1ff-6b36-453f-b5ed-54f6186b78e2",
+    "name": "magby",
+    "type": "fire"
+  },
+  {
+    "id": "9279d0e1-c334-4dd5-ad5e-b075e95d01ba",
+    "name": "miltank",
+    "type": "normal"
+  },
+  {
+    "id": "2748fb20-ea6c-4ab4-a0d9-23b41a92f68b",
+    "name": "blissey",
+    "type": "normal"
+  },
+  {
+    "id": "f536c552-b85e-4d76-b05c-9087afab3575",
+    "name": "raikou",
+    "type": "electric"
+  },
+  {
+    "id": "fa58f6db-63bb-437a-82e7-085bd9ee377e",
+    "name": "entei",
+    "type": "fire"
+  },
+  {
+    "id": "df1f157a-73e8-453c-98f5-48d57e19ee53",
+    "name": "suicune",
+    "type": "water"
+  },
+  {
+    "id": "ec2e0a89-c580-42b9-a711-7944ba69b1bc",
+    "name": "larvitar",
+    "type": "rock/ground"
+  },
+  {
+    "id": "2b3b4466-4776-4d8e-8300-9635e46dd8a9",
+    "name": "pupitar",
+    "type": "rock/ground"
+  },
+  {
+    "id": "e2514296-350c-4593-be2a-450cb88d5ca0",
+    "name": "tyranitar",
+    "type": "rock/dark"
+  },
+  {
+    "id": "a17bc192-4eca-443f-ae64-d0f4861d00d0",
+    "name": "lugia",
+    "type": "psychic/flying"
+  },
+  {
+    "id": "ee1738ef-ae87-44bb-b047-dfa2105364d6",
+    "name": "ho-oh",
+    "type": "fire/flying"
+  },
+  {
+    "id": "b0db8eb6-da1a-4f6c-af1f-e6bccc0971b6",
+    "name": "celebi",
+    "type": "psychic/grass"
+  },
+  {
+    "id": "115b3a5b-3299-4fba-a7b6-38d04cf3feb4",
+    "name": "treecko",
+    "type": "grass"
+  },
+  {
+    "id": "4103dbf4-0c02-48d7-9861-1f94495f340f",
+    "name": "grovyle",
+    "type": "grass"
+  },
+  {
+    "id": "5d63f722-af14-4270-909b-f875516f8e4d",
+    "name": "sceptile",
+    "type": "grass"
+  },
+  {
+    "id": "bc5cebdb-8829-40c5-909f-768ac644c1a2",
+    "name": "torchic",
+    "type": "fire"
+  },
+  {
+    "id": "8875913e-dfca-4eff-87db-2cb978fe1481",
+    "name": "combusken",
+    "type": "fire/fighting"
+  },
+  {
+    "id": "4b1d618b-a143-437d-ad9a-b302c2a764e4",
+    "name": "blaziken",
+    "type": "fire/fighting"
+  },
+  {
+    "id": "d98c92a6-c517-4b41-979f-4e3e1f37b2c7",
+    "name": "mudkip",
+    "type": "water"
+  },
+  {
+    "id": "9fc5c1c4-eed5-40aa-a2aa-e9e6a7921fa9",
+    "name": "marshtomp",
+    "type": "water/ground"
+  },
+  {
+    "id": "222f1048-d536-43a2-aefa-ed6f447d762d",
+    "name": "swampert",
+    "type": "water/ground"
+  },
+  {
+    "id": "6393560a-7758-476a-9787-5e30e1fe2822",
+    "name": "poochyena",
+    "type": "dark"
+  },
+  {
+    "id": "dc1d4d27-91e1-426a-bfaa-495acaa34cf9",
+    "name": "mightyena",
+    "type": "dark"
+  },
+  {
+    "id": "22bd1b85-5ae2-4530-a3b3-776eb89cb9bd",
+    "name": "zigzagoon",
+    "type": "normal"
+  },
+  {
+    "id": "d7da0bba-6280-4769-9996-f5b9a11c21fb",
+    "name": "linoone",
+    "type": "normal"
+  },
+  {
+    "id": "86583735-54c5-47af-839c-588b97ebe13d",
+    "name": "wurmple",
+    "type": "bug"
+  },
+  {
+    "id": "ff2448bc-cd07-4347-a567-41931c78dba6",
+    "name": "silcoon",
+    "type": "bug"
+  },
+  {
+    "id": "38d57b15-a894-439e-960b-cf1d8ecd4394",
+    "name": "beautifly",
+    "type": "bug/flying"
+  },
+  {
+    "id": "9518c851-d3dd-408a-937d-6d342a7da493",
+    "name": "cascoon",
+    "type": "bug"
+  },
+  {
+    "id": "3cbea547-db4a-4e56-94e0-daf8f91c8b7a",
+    "name": "dustox",
+    "type": "bug/poison"
+  },
+  {
+    "id": "07dc0509-b17e-453a-aca1-3b2e16053339",
+    "name": "lotad",
+    "type": "water/grass"
+  },
+  {
+    "id": "c8f1929f-7452-409b-8a78-fee1fb4c13e8",
+    "name": "lombre",
+    "type": "water/grass"
+  },
+  {
+    "id": "60ecae92-f017-480f-8ea5-3c2e2d483e3b",
+    "name": "ludicolo",
+    "type": "water/grass"
+  },
+  {
+    "id": "c5e7d96e-251f-4abb-8874-66bdac46f705",
+    "name": "seedot",
+    "type": "grass"
+  },
+  {
+    "id": "53cc1ab6-691c-4058-923d-db3eb8b4bb98",
+    "name": "nuzleaf",
+    "type": "grass/dark"
+  },
+  {
+    "id": "73bdbe73-690b-446d-b8c6-54556eb82bb6",
+    "name": "shiftry",
+    "type": "grass/dark"
+  },
+  {
+    "id": "a8dba0d8-d7ff-4f1f-aa1f-b7ac00ecafe1",
+    "name": "taillow",
+    "type": "normal/flying"
+  },
+  {
+    "id": "eaa2756d-a544-42f9-b492-90f13a6ba0d9",
+    "name": "swellow",
+    "type": "normal/flying"
+  },
+  {
+    "id": "7f0b0375-638b-4af8-a4fe-7f814f48c6a0",
+    "name": "wingull",
+    "type": "water/flying"
+  },
+  {
+    "id": "bf6430b4-9da8-4ea8-b495-4b2bb5dcd6cf",
+    "name": "pelipper",
+    "type": "water/flying"
+  },
+  {
+    "id": "bec255ec-5a58-45d5-bb49-efb39a02f6f6",
+    "name": "ralts",
+    "type": "psychic/fairy"
+  },
+  {
+    "id": "536d8bbb-3486-4e93-baf3-831f800d289d",
+    "name": "kirlia",
+    "type": "psychic/fairy"
+  },
+  {
+    "id": "32720c44-1a67-4fb9-a356-a730a7321494",
+    "name": "gardevoir",
+    "type": "psychic/fairy"
+  },
+  {
+    "id": "da8966a9-afce-4dae-ac44-dee12e58ba6b",
+    "name": "surskit",
+    "type": "bug/water"
+  },
+  {
+    "id": "c070cbbe-7dd5-4361-b2c8-8c8b55b6037b",
+    "name": "masquerain",
+    "type": "bug/flying"
+  },
+  {
+    "id": "6603c07b-0b73-4078-8250-1e9573b5cb9a",
+    "name": "shroomish",
+    "type": "grass"
+  },
+  {
+    "id": "88efb5fb-d718-4129-89bf-8caaa6eaa876",
+    "name": "breloom",
+    "type": "grass/fighting"
+  },
+  {
+    "id": "38c67128-9d86-4404-828e-2335badfaed3",
+    "name": "slakoth",
+    "type": "normal"
+  },
+  {
+    "id": "e9e955c6-b004-4cc1-ac9f-b9ab83e3143f",
+    "name": "vigoroth",
+    "type": "normal"
+  },
+  {
+    "id": "aa15c68d-4100-4889-abfe-d87c97dd6157",
+    "name": "slaking",
+    "type": "normal"
+  },
+  {
+    "id": "d2a51604-a76b-4d96-93a6-abfba7889d5a",
+    "name": "nincada",
+    "type": "bug/ground"
+  },
+  {
+    "id": "acc1a226-bca9-4fca-aa8a-5f3a23e3f8dd",
+    "name": "ninjask",
+    "type": "bug/flying"
+  },
+  {
+    "id": "2889e8b9-5530-463e-86bf-744d756c6c71",
+    "name": "shedinja",
+    "type": "bug/ghost"
+  },
+  {
+    "id": "8cab2d69-f261-4757-8939-29664d2c0d4e",
+    "name": "whismur",
+    "type": "normal"
+  },
+  {
+    "id": "bf17396e-82ae-4fde-97b8-29ff3f4c7d08",
+    "name": "loudred",
+    "type": "normal"
+  },
+  {
+    "id": "9eab18ff-806f-4d42-8216-8af2689c02b3",
+    "name": "exploud",
+    "type": "normal"
+  },
+  {
+    "id": "fc4fa2a6-1200-4c01-8cca-517a6d1f549d",
+    "name": "makuhita",
+    "type": "fighting"
+  },
+  {
+    "id": "d7173c5e-f29a-4a19-8eba-034af3a9558b",
+    "name": "hariyama",
+    "type": "fighting"
+  },
+  {
+    "id": "a915c6a4-63a0-4c83-9b86-e90b7af63931",
+    "name": "azurill",
+    "type": "normal/fairy"
+  },
+  {
+    "id": "63c761f9-ca2a-4be3-90c5-cfaa5431ea2c",
+    "name": "nosepass",
+    "type": "rock"
+  },
+  {
+    "id": "32e7af61-9f9e-45b8-8459-c7f0a23a24dc",
+    "name": "skitty",
+    "type": "normal"
+  },
+  {
+    "id": "44e5b361-1bc8-4cc7-a8e9-32ce0a5d39e9",
+    "name": "delcatty",
+    "type": "normal"
+  },
+  {
+    "id": "c6588ab1-83c9-44ae-8853-ba75e9e30154",
+    "name": "sableye",
+    "type": "dark/ghost"
+  },
+  {
+    "id": "54bca6d3-c652-4e27-9be8-e9c24b07abeb",
+    "name": "mawile",
+    "type": "steel/fairy"
+  },
+  {
+    "id": "2595120f-ddc8-4628-8936-6cf9bd365079",
+    "name": "aron",
+    "type": "steel/rock"
+  },
+  {
+    "id": "12ed8d4f-626f-464c-a10b-d1cb36c345b5",
+    "name": "lairon",
+    "type": "steel/rock"
+  },
+  {
+    "id": "1f8c563a-84bb-4fcb-bc53-27a84c3d31f1",
+    "name": "aggron",
+    "type": "steel/rock"
+  },
+  {
+    "id": "4ea7a45c-9f37-4425-bc3b-8a12105e60ee",
+    "name": "meditite",
+    "type": "fighting/psychic"
+  },
+  {
+    "id": "74b3adc1-fb65-43aa-932e-0a017fed68dd",
+    "name": "medicham",
+    "type": "fighting/psychic"
+  },
+  {
+    "id": "d97e845a-66eb-480a-86e4-17bfc37e9d48",
+    "name": "electrike",
+    "type": "electric"
+  },
+  {
+    "id": "6c845924-9094-404d-8590-ef40cbf9534a",
+    "name": "manectric",
+    "type": "electric"
+  },
+  {
+    "id": "cc20a009-f651-4d6a-8beb-675f5e4823b7",
+    "name": "plusle",
+    "type": "electric"
+  },
+  {
+    "id": "129872f6-23a3-4e17-b9c4-65d2a793cea0",
+    "name": "minun",
+    "type": "electric"
+  },
+  {
+    "id": "3192315b-bae9-4de3-8456-eb2289bd1df2",
+    "name": "volbeat",
+    "type": "bug"
+  },
+  {
+    "id": "b05ba33f-b9e4-4d14-a9f3-1112f67bdeba",
+    "name": "illumise",
+    "type": "bug"
+  },
+  {
+    "id": "146f30ef-7521-4e4b-b548-4fc59cc697ac",
+    "name": "roselia",
+    "type": "grass/poison"
+  },
+  {
+    "id": "0d9b4cf5-c982-402e-82d1-952ccc8292bc",
+    "name": "gulpin",
+    "type": "poison"
+  },
+  {
+    "id": "4172078b-eae3-4ef3-a7d9-afe21ea7827b",
+    "name": "swalot",
+    "type": "poison"
+  },
+  {
+    "id": "54d4ad2b-5723-422a-bbd9-79a8b7727ce2",
+    "name": "carvanha",
+    "type": "water/dark"
+  },
+  {
+    "id": "30df7234-e2c4-4710-a3d7-4963800ef5c7",
+    "name": "sharpedo",
+    "type": "water/dark"
+  },
+  {
+    "id": "b0f4231b-008f-4439-98f4-70634a3e510a",
+    "name": "wailmer",
+    "type": "water"
+  },
+  {
+    "id": "d0607d41-ab57-4ea2-81cd-e94ef99cc756",
+    "name": "wailord",
+    "type": "water"
+  },
+  {
+    "id": "14f5645e-9a03-46f6-b1f6-0fa7eaf29455",
+    "name": "numel",
+    "type": "fire/ground"
+  },
+  {
+    "id": "6aaec29f-3b66-4d6d-8000-167f693a24cc",
+    "name": "camerupt",
+    "type": "fire/ground"
+  },
+  {
+    "id": "a014a9d3-b38f-4928-aed6-4f5185f54238",
+    "name": "torkoal",
+    "type": "fire"
+  },
+  {
+    "id": "cef970c1-d020-4fc7-afb3-d6066449f3bc",
+    "name": "spoink",
+    "type": "psychic"
+  },
+  {
+    "id": "bbea1984-190e-40d6-9d15-113fb0935b76",
+    "name": "grumpig",
+    "type": "psychic"
+  },
+  {
+    "id": "84af8bba-fc9e-4e13-b551-50a583c8d2f2",
+    "name": "spinda",
+    "type": "normal"
+  },
+  {
+    "id": "9d751a42-4653-4cc3-8b70-abda014d5ecd",
+    "name": "trapinch",
+    "type": "ground"
+  },
+  {
+    "id": "9adcd5bd-b38a-4094-8f02-870eba6f1cf0",
+    "name": "vibrava",
+    "type": "ground/dragon"
+  },
+  {
+    "id": "972899dc-f438-4ad2-9a63-33f10913e243",
+    "name": "flygon",
+    "type": "ground/dragon"
+  },
+  {
+    "id": "2c4c7877-8c40-4d64-b765-be816dd83449",
+    "name": "cacnea",
+    "type": "grass"
+  },
+  {
+    "id": "c46abb5c-af85-46bd-9837-6b83871fc8c1",
+    "name": "cacturne",
+    "type": "grass/dark"
+  },
+  {
+    "id": "99bcbd47-5698-4df5-b0c9-3e6a39fa6cd4",
+    "name": "swablu",
+    "type": "normal/flying"
+  },
+  {
+    "id": "36be2df5-107e-4620-a60c-86e6212a1958",
+    "name": "altaria",
+    "type": "dragon/flying"
+  },
+  {
+    "id": "23a85e55-fc8e-4ff0-b70c-02a9f443c310",
+    "name": "zangoose",
+    "type": "normal"
+  },
+  {
+    "id": "4bbf7adc-2bce-406e-a3bb-19c1d9d2d55d",
+    "name": "seviper",
+    "type": "poison"
+  },
+  {
+    "id": "73c35c3b-ef19-46f7-8ee1-67efc2ab73f6",
+    "name": "lunatone",
+    "type": "rock/psychic"
+  },
+  {
+    "id": "8e7bab92-edae-4bc2-8d2d-0d8d684fc97d",
+    "name": "solrock",
+    "type": "rock/psychic"
+  },
+  {
+    "id": "99420620-7ebd-446e-952c-1c782749a175",
+    "name": "barboach",
+    "type": "water/ground"
+  },
+  {
+    "id": "94ebb0c6-9d4a-46eb-ab99-44b4410c1b00",
+    "name": "whiscash",
+    "type": "water/ground"
+  },
+  {
+    "id": "1a4f40e1-ad7d-4121-935d-1853480d6664",
+    "name": "corphish",
+    "type": "water"
+  },
+  {
+    "id": "dc5ca788-64a4-47a1-8a6b-f6b9ce20d22c",
+    "name": "crawdaunt",
+    "type": "water/dark"
+  },
+  {
+    "id": "150aed6a-f076-43ac-a7db-5b4a3f08a6e0",
+    "name": "baltoy",
+    "type": "ground/psychic"
+  },
+  {
+    "id": "4069003a-c346-4791-aaa6-65d450e68c6e",
+    "name": "claydol",
+    "type": "ground/psychic"
+  },
+  {
+    "id": "d38966d0-903b-4165-8837-df6134cead9c",
+    "name": "lileep",
+    "type": "rock/grass"
+  },
+  {
+    "id": "d1d1b27b-1e44-4ff6-b875-82dbab6a578b",
+    "name": "cradily",
+    "type": "rock/grass"
+  },
+  {
+    "id": "b2f4bb72-6193-4616-9635-85c0d463059b",
+    "name": "anorith",
+    "type": "rock/bug"
+  },
+  {
+    "id": "d8141320-09a5-4ae2-841f-0ac50365fd4d",
+    "name": "armaldo",
+    "type": "rock/bug"
+  },
+  {
+    "id": "80d106bd-eb42-43f4-abea-ef63079b61db",
+    "name": "feebas",
+    "type": "water"
+  },
+  {
+    "id": "ca392b7b-fd9b-4a71-b646-3f60be11bb75",
+    "name": "milotic",
+    "type": "water"
+  },
+  {
+    "id": "2d52b4db-3c93-4158-a986-1a9d744eeede",
+    "name": "castform",
+    "type": "normal"
+  },
+  {
+    "id": "3c54752c-1151-4487-84d2-acfb9e6ebd0e",
+    "name": "kecleon",
+    "type": "normal"
+  },
+  {
+    "id": "2936b91b-6038-4de9-bf92-2654afdc00a8",
+    "name": "shuppet",
+    "type": "ghost"
+  },
+  {
+    "id": "d5916894-8373-4827-b193-45aba9b143fd",
+    "name": "banette",
+    "type": "ghost"
+  },
+  {
+    "id": "ea13d64d-07ef-40a1-a6ca-1b6a6ed0505d",
+    "name": "duskull",
+    "type": "ghost"
+  },
+  {
+    "id": "960d45ee-dc36-4be6-888f-675f9a4122f2",
+    "name": "dusclops",
+    "type": "ghost"
+  },
+  {
+    "id": "b6244434-9496-4ebb-9538-5646b23f2bd3",
+    "name": "tropius",
+    "type": "grass/flying"
+  },
+  {
+    "id": "94f68ad2-4e33-4a11-a904-fc032739fab7",
+    "name": "chimecho",
+    "type": "psychic"
+  },
+  {
+    "id": "50c5be32-de8b-41b8-abcf-44de44ad3a0c",
+    "name": "absol",
+    "type": "dark"
+  },
+  {
+    "id": "3fa6a1f5-cb43-4390-a90f-b5acf19c97c0",
+    "name": "wynaut",
+    "type": "psychic"
+  },
+  {
+    "id": "675d5a41-54cf-4e9e-905b-7f0d18f19c4a",
+    "name": "snorunt",
+    "type": "ice"
+  },
+  {
+    "id": "e1e23899-7216-4e2a-8391-db381e9fe539",
+    "name": "glalie",
+    "type": "ice"
+  },
+  {
+    "id": "03ebfc95-a26f-473f-9003-f49f4fa2d9bf",
+    "name": "spheal",
+    "type": "ice/water"
+  },
+  {
+    "id": "53fcaa74-67bf-441d-bba6-f7ee0257f643",
+    "name": "sealeo",
+    "type": "ice/water"
+  },
+  {
+    "id": "bea34fc3-7122-497e-b119-acead51317cd",
+    "name": "walrein",
+    "type": "ice/water"
+  },
+  {
+    "id": "a2624cb1-ce51-4bee-9b62-e8749ea43f23",
+    "name": "clamperl",
+    "type": "water"
+  },
+  {
+    "id": "e71e8820-0721-4dbf-a3bb-b9b0820cb077",
+    "name": "huntail",
+    "type": "water"
+  },
+  {
+    "id": "6be1d0e3-f9bf-4971-8e99-54f22a9259ec",
+    "name": "gorebyss",
+    "type": "water"
+  },
+  {
+    "id": "b5776e0c-8a7d-4f6c-9425-d8ea6bc90481",
+    "name": "relicanth",
+    "type": "water/rock"
+  },
+  {
+    "id": "4611a8ba-e5dc-4ade-9186-5b167e3e1c40",
+    "name": "luvdisc",
+    "type": "water"
+  },
+  {
+    "id": "9af49d29-bdc9-4c27-9fa2-aedaace1eef1",
+    "name": "bagon",
+    "type": "dragon"
+  },
+  {
+    "id": "ae48fc44-3fe3-43c4-b843-e2bd532105fa",
+    "name": "shelgon",
+    "type": "dragon"
+  },
+  {
+    "id": "26de8c82-7d03-4b0a-abf0-16371f113fdf",
+    "name": "salamence",
+    "type": "dragon/flying"
+  },
+  {
+    "id": "b66eb5a9-badf-4aed-b4ff-4ffca573f30e",
+    "name": "beldum",
+    "type": "steel/psychic"
+  },
+  {
+    "id": "cbb1b1f9-7aa5-4b46-af8d-10b50626ecd6",
+    "name": "metang",
+    "type": "steel/psychic"
+  },
+  {
+    "id": "e6ec157b-7090-4bc9-be36-0e8ebb964f22",
+    "name": "metagross",
+    "type": "steel/psychic"
+  },
+  {
+    "id": "7afe7ade-9dff-458a-8ac0-c8ed82d9051b",
+    "name": "regirock",
+    "type": "rock"
+  },
+  {
+    "id": "2d8532dc-a8c8-48f4-b6fa-d99149c2ca2b",
+    "name": "regice",
+    "type": "ice"
+  },
+  {
+    "id": "8fd111f5-6160-49aa-bef7-918f28f75fc4",
+    "name": "registeel",
+    "type": "steel"
+  },
+  {
+    "id": "7c638ce6-c429-430e-babd-d6fc54f8582f",
+    "name": "latias",
+    "type": "dragon/psychic"
+  },
+  {
+    "id": "26c98ccd-f934-4d88-99c4-1dc00f61544e",
+    "name": "latios",
+    "type": "dragon/psychic"
+  },
+  {
+    "id": "7ebd16dd-7d98-40f2-a488-4e195d67ab96",
+    "name": "kyogre",
+    "type": "water"
+  },
+  {
+    "id": "c4a53b3e-990c-4829-942b-00f048b39804",
+    "name": "groudon",
+    "type": "ground"
+  },
+  {
+    "id": "b29c3167-7dcb-4028-b6ae-47d8512459b4",
+    "name": "rayquaza",
+    "type": "dragon/flying"
+  },
+  {
+    "id": "02fd53e4-745d-42f3-b6ed-cafa69c1badc",
+    "name": "jirachi",
+    "type": "steel/psychic"
+  },
+  {
+    "id": "c3914318-da02-4ec6-abea-fb59a13cf082",
+    "name": "deoxys-normal",
+    "type": "psychic"
+  }
+]
