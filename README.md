@@ -1,6 +1,6 @@
 # Pokemon Travel Buddy
 
-<img src="https://github.com/HanHsunShih/Pokemon-Travel-Buddy/blob/main/images/Screenshot%202025-01-20%20at%2017.54.44.png?raw=true" width=500 />
+<img src="https://github.com/HanHsunShih/Pokemon-Travel-Buddy/blob/main/images/Screenshot%202025-01-20%20at%2017.54.44.png?raw=true" width=1000 />
 
 ## About This Project
 Pokémon Travel Buddy is a web application designed to recommend Pokémon companions based on their type compatibility with the destination's weather conditions. The frontend is built with React, while the backend is powered by Express.js. The application fetches real-time weather data using RESTful API methods to provide personalized Pokémon travel recommendations.
